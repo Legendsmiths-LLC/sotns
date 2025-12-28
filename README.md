@@ -1,2 +1,1 @@
-# sotns
-Shadow of the New Sun
+# Shadow of the New Sun
