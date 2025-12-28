@@ -1,3 +1,7 @@
+---
+layout: default
+title: Converting D&D to Weird Wizard
+---
 # Encounter Difficulty
 1. Determine if the encounter is Low, Moderate, or High (in D&D terms)
 2. In WW, Low = Easy, Moderate = Average, High = Hard
@@ -29,7 +33,7 @@
 [Consumables]
 
 ### Common Trinkets
-- +1 boon with an attribute roll for a specific “skill” use, once per day. Item must be appropriate for “skill”. 
+- +1 boon with an attribute roll for a specific “skill” use, once per day. Item must be appropriate for “skill”.
 
 ### Uncommon Trinkets
 - +1 boon with an attribute roll for a specific “skill” use. Item must be appropriate for “skill”. 
