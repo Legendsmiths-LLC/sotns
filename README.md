@@ -7,8 +7,9 @@ This is a [West Marches][1] style game (I think, mostly, probably).
 
 The gods are the embodiment of the Cosmic Notions. The gods are new. They have no names…yet. Their influence is real, but references to them are made venerating their concept rather than any eternal truth. The Warrior. The Trickster. The Herald. The Strategist. The Lover. The Hero. Priests and cults abound. Some gods are even worshiped and supported by organized congregations. None are acknowledged as regent, though they may intend to be. 
 
-# Content
-[Converting D&D to WW][2]
+| Content                   |
+| ------------------------- |
+| [Converting D&D to WW][2] |
 
 # Additional Rules
 WW will be modified using the PLASTER framework. The P (Powers) and A (Actions) are served by the WW path system (no changes to core WW). However, this introduces Legends,  Stunts, Talents, Experiences, and Renown. I will elaborate on that (nothing you need to know to start). This will add a layer of customization to the game that I think you will appreciate and I know will add a reasonable amount of personalization that I feel is lacking in WW. 
